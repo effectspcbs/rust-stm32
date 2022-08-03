@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/yann/_dev/02 - PlatformIO/rust-stm32/test1/target/thumbv6m-none-eabi/debug/build/stm32ral-2774e7d12f1ff860/out
+cargo:rerun-if-changed=src/stm32f0/stm32f0x1/device.x
+cargo:rerun-if-changed=build.rs

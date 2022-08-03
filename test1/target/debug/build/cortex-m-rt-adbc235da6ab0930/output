@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/yann/_dev/02 - PlatformIO/rust-stm32/test1/target/debug/build/cortex-m-rt-adbc235da6ab0930/out
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=link.x.in

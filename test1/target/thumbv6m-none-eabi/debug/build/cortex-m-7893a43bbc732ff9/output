@@ -1,0 +1,4 @@
+cargo:rustc-link-lib=static=cortex-m
+cargo:rustc-link-search=/home/yann/_dev/02 - PlatformIO/rust-stm32/test1/target/thumbv6m-none-eabi/debug/build/cortex-m-7893a43bbc732ff9/out
+cargo:rustc-cfg=cortex_m
+cargo:rustc-cfg=armv6m
